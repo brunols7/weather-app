@@ -28,7 +28,8 @@ A simple weather application built with **React Native** and **Expo** that shows
 ## Screenshots
 
 <div style="display: flex; flex-direction: row; gap: 15px;">
-    <img src="./assets/screen1.jpeg" alt="Weather App Screenshot" style="width:250px; height:auto;"/>
+    <img src="./assets/screen1.jpeg" alt="Weather App Screenshot - Day" style="width:250px; height:auto;"/>
+    <img src="./assets/screen2.jpeg" alt="Weather App Screenshot - Night" style="width:250px; height:auto;"/>
     <img src="./assets/screen-error.jpeg" alt="Weather App Screenshot" style="width:250px; height:auto;"/>
 </div>
 
